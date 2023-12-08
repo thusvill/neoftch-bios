@@ -7,3 +7,5 @@
 1. copy all of these files to ```~/.config/neofetch```
 
 1. That's it! now you can check it by run ```neofetch``` on terminal.
+
+1. Now you can add/remove png(s) and gif(s) in the `png` and `gif` files
