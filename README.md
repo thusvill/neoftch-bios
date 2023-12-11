@@ -9,3 +9,5 @@
 1. That's it! now you can check it by run ```neofetch``` on terminal.
 
 1. Now you can add/remove png(s) and gif(s) in the `png` and `gif` folders 
+
+## This config only support with kitty terminal 
